@@ -7,9 +7,9 @@ I build practical AI/ML projects with a focus on cybersecurity, trustworthy syst
 - ML projects: instance segmentation for autonomous driving, supervised modeling work
 
 ### Featured projects
-- ScholarVizCybersecurity: trustworthy RAG + learning workflows
-- Radius_Star_Research: neutron star modeling + visualization tool
-- Wildfire Guard: NASA FIRMS VIIRS ingest + FRP modeling and mapping
+- ScholarVizCybersecurity: trustworthy RAG and learning workflows
+- Radius_Star_Research: neutron star modeling and visualization tool
+- Wildfire Guard: NASA FIRMS VIIRS ingest and FRP modeling and mapping
 - Datathon-2025-v2: loan disbursement prediction (award-winning supervised model)
 
 ### Tech
