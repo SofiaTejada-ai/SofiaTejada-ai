@@ -17,5 +17,6 @@ Python, PyTorch, scikit-learn, XGBoost, FastAPI, SQL, Git, Docker basics
 
 ### Links
 - LinkedIn: https://www.linkedin.com/in/sofia-tejada-731495287/
-- Resume: ![58C014F2-FF08-43CF-A7EF-19CA33504014](https://github.com/user-attachments/assets/d2f24f98-d681-40bc-bf9d-45d49634549a)
+- Resume: ![5BBD11F5-2CE0-4C14-A92C-4BC5F5AF5A5D](https://github.com/user-attachments/assets/00003161-6273-47f6-9eb8-99806d9efa3b)
+
 
